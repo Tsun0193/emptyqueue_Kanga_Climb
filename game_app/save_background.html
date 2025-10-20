@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save Background Image</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #27ae60;
+        }
+        .instructions {
+            background: #f0f0f0;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: left;
+        }
+        .instructions ol {
+            line-height: 1.8;
+        }
+        img {
+            max-width: 100%;
+            border: 2px solid #333;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Save Your Background Image</h1>
+    
+    <div class="instructions">
+        <h3>Instructions:</h3>
+        <ol>
+            <li>Right-click on the image below</li>
+            <li>Select "Save image as..."</li>
+            <li>Save it in the <code>game_app</code> folder with the name: <strong>background.png</strong></li>
+            <li>The image will automatically appear in your game!</li>
+        </ol>
+    </div>
+    
+    <p><strong>Your Background Image:</strong></p>
+    <img src="data:image/png;base64,PLACEHOLDER" alt="Game Background" id="bgImage">
+    
+    <p style="color: #666; margin-top: 30px;">
+        If you already have a background image, just name it <strong>background.png</strong> 
+        and place it in the <code>game_app</code> folder.
+    </p>
+    
+    <p>
+        <a href="index.html" style="color: #27ae60; font-weight: bold;">← Back to Game</a>
+    </p>
+</body>
+</html>

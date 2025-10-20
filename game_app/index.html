@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanga's Climb: Journey to the Sky Garden</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Menu Screen -->
+    <div id="menu-screen" class="screen active">
+        <div class="menu-container">
+            <h1 class="game-title">Kanga's Climb</h1>
+            <p class="game-subtitle">Journey to the Sky Garden</p>
+            <p class="game-description">
+                Help Kanga climb from the polluted depths to the clean Sky Garden 
+                to save her sick joey and heal the environment!
+            </p>
+            <button id="start-game-btn" class="menu-btn">Start Game</button>
+            <button id="how-to-play-btn" class="menu-btn">How to Play</button>
+        </div>
+    </div>
+
+    <!-- How to Play Screen -->
+    <div id="how-to-play-screen" class="screen">
+        <div class="menu-container">
+            <h2>How to Play</h2>
+            <div class="instructions">
+                <p><strong>HOLD SPACE</strong> - Charge your jump</p>
+                <p><strong>RELEASE SPACE</strong> - Jump!</p>
+                <p><strong>A/D or Arrow Keys</strong> - Aim left/right while charging</p>
+                <p><strong>Goal:</strong> Climb from the polluted bottom to the clean Sky Garden at the top!</p>
+                <p><strong>Warning:</strong> Falling sends you way back down - be careful!</p>
+            </div>
+            <button id="back-to-menu-btn" class="menu-btn">Back to Menu</button>
+        </div>
+    </div>
+
+    <!-- Game Screen -->
+    <div id="game-screen" class="screen">
+        <!-- Game UI -->
+        <div id="game-ui">
+            <div id="joey-health-container">
+                <label>Joey's Health:</label>
+                <div id="joey-health-bar">
+                    <div id="joey-health-fill"></div>
+                </div>
+            </div>
+            <div id="jump-power-container">
+                <label>Jump Power:</label>
+                <div id="jump-power-bar">
+                    <div id="jump-power-fill"></div>
+                </div>
+            </div>
+            <div id="height-indicator">
+                <label>Height: <span id="height-value">0m</span></label>
+            </div>
+            <div id="score-container">
+                <label>Score: <span id="score-value">0</span></label>
+            </div>
+            <button id="menu-btn" class="ui-btn">Menu</button>
+        </div>
+
+        <!-- Game Canvas Container -->
+        <div id="game-container">
+            <canvas id="game-canvas"></canvas>
+        </div>
+    </div>
+
+    <!-- Game Over Screen -->
+    <div id="game-over-screen" class="screen">
+        <div class="menu-container">
+            <h2 id="game-over-title">Game Over</h2>
+            <p id="game-over-message">You fell too far! Try again.</p>
+            <div id="game-stats">
+                <p>Max Height Reached: <span id="max-height">0m</span></p>
+                <p>Environmental Progress: <span id="env-progress">0%</span></p>
+            </div>
+            <button id="play-again-btn" class="menu-btn">Play Again</button>
+            <button id="main-menu-btn" class="menu-btn">Main Menu</button>
+        </div>
+    </div>
+
+    <!-- Victory Screen -->
+    <div id="victory-screen" class="screen">
+        <div class="menu-container">
+            <h2>Congratulations!</h2>
+            <p class="victory-message">
+                Kanga has reached the Sky Garden! The clean air is healing Joey, 
+                and the environment is beginning to recover. 
+                Your journey has made a difference!
+            </p>
+            <div id="victory-stats">
+                <p>Final Height: <span id="final-height">1000m</span></p>
+                <p>Environment Restored: 100%</p>
+                <p>Joey's Health: Fully Recovered!</p>
+            </div>
+            <button id="play-again-victory-btn" class="menu-btn">Play Again</button>
+            <button id="main-menu-victory-btn" class="menu-btn">Main Menu</button>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

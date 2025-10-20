@@ -1,0 +1,38 @@
+The document/overview.md containing the information about the competition
+
+Read this overview and generate a single overview document that cover the basic information of the project required for this competition, this document 
+This document will be update and use for extending other document related to the project
+The document should contain but not limited to 
+1. Objective
+2. Required Screens/Views
+    **Menu/Welcome Screen (`index.html` initial view):**
+    * **Title** of the game.
+    * **Brief description** of the social issue and game goal.
+    * A prominent **"Start Game"** button.
+    * (Optional) "How to Play" or "Credits" link/button.
+
+    **Play Screen:**
+    * The main **game area/board**.
+    * **Player status/stats** (e.g., score, resource count, health, progress).
+    * **Core interactive elements** (e.g., dice, cards, board spaces, action buttons).
+    * **Game narrative/prompts** displayed to the player.
+    * **Clear visual feedback** for actions and game state changes.
+
+    **(Self-Defined) Game Over/Results Screen:**
+    * A screen that appears upon game completion (win or lose).
+    * **Final Score/Outcome** and a brief, impactful **message** related to the social issue.
+    * A **"Play Again"** button.
+3. Themes 
+4. TechStack
+
+This wil be the intial document that kickstart this project, based on this document several document will be build after (not now) such as:
+- Specific Theme
+- Screen design 
+- Asset build 
+- Game flow
+- ... 
+
+
+
+
+

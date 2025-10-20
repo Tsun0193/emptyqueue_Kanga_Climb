@@ -1,0 +1,48 @@
+Topic: Evriomental issue
+Name idea base: Jump king 
+Story: A kangaroo jumping to the top the higher it go the cleaner the enviroment
+This is a fantastic and very clear base idea! The "Jump King" mechanical model (high-stakes, precision vertical platforming) paired with an environmental theme is a great match. The visual reward of the environment cleaning up as you ascend is a brilliant, built-in motivator.
+
+Here are some improvements and ideas to flesh it out before you start coding.
+
+1. Story & Narrative (The "Why")
+The Problem: The world (maybe a stylized Australia) is covered in a "Great Smog" or "The Filth" that settled at the lowest point. It's all just a massive, continent-sized landfill.
+
+The Hero: Your kangaroo (let's call her "Kanga") lives at the bottom. Her family/friends/pouch-joey is sick from the pollution.
+
+The Goal: Kanga hears an old legend of the "Sky-Garden" or "The Great Tree," a pristine, clean place at the very top of the world, above the smog.
+
+The Twist: The "top" isn't just a random mountain. It's the source of the pollution. The game is a journey up a colossal, world-ending trash heap that has become its own mountain. Reaching the top means you're not just escaping, you're finding the source (maybe a giant, broken "Atmos-Filter" machine, or a corporate sky-palace) and can finally shut it down, cleaning the world for everyone below.
+
+This gives the player a clear motivation: Escape the pollution, find the utopia, and save the world.
+
+2. Gameplay Mechanics & Environmental Interaction
+The Core: Stick to the Jump King formula: Hold to charge jump, aim, release. No mid-air control (or very little). High-stakes. Falling is painful and sends you way, way back down.
+
+The Hazard: Pollution:
+
+Smog Pockets: Areas of thick smog that obscure your vision, making it hard to see the next platform.
+
+Acid Rain: Periodic "drips" from pipes above that can knock you off a platform if they hit you.
+
+Oil Slicks: Patches on platforms that make Kanga slide, ruining her jump-charge.
+
+Trash Platforms: Unstable platforms (e.g., a pile of tires, a precariously balanced TV) that wobble or break after you land on them.
+
+The Reward: Cleanliness:
+
+As you get higher, these hazards lessen. The smog thins, the platforms become more stable (like rocks and girders), and you see green vines.
+
+Helpful Elements: The "clean" environment starts to help you.
+
+Lush Vines: You can grab onto these to save yourself from a short fall.
+
+Clean Air Gusts: Vents of clean air from growing plants that give you a slight upward boost if you jump through them.
+
+Springy Moss: A type of platform that gives you a "super-jump."
+
+Kangaroo Abilities (Optional):
+
+Tail Spring: A rare "double jump" you can use once after falling a certain distance. This acts as a "fall recovery" mechanic that you have to earn back.
+
+Pouch: Purely for story. Maybe Kanga is carrying her joey, who cheers when you make a good jump and coughs when you're in deep smog. This adds emotional stakes.

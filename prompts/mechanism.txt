@@ -1,0 +1,76 @@
+THE ASCENT: A PILGRIM'S INSTRUCTION MANUAL
+
+You are the Jumping King. Your quest is simple, yet maddeningly difficult: ascend the desolate vertical tower to reach the top and find the legendary, Smoking Hot Babe. This is a game of precision, patience, and absolute control.
+
+1. THE CORE MECHANIC: THE JUMP
+
+The Jump is the only tool you possess, and mastery is mandatory.
+
+Charging: Hold the Jump Button (typically SPACEBAR or the corresponding controller button) to initiate a charge.
+
+Trajectory: As you charge, the arc and strength of your jump are displayed by the King's posture. The longer you hold, the farther and higher you will leap.
+
+Release: Release the Jump Button to launch.
+
+Commitment: Once airborne, the trajectory is FIXED. You cannot adjust your path mid-air. You are fully committed to your chosen leap.
+
+2. BASIC CONTROLS
+
+Action
+
+Keyboard (Default)
+
+Controller (Example)
+
+Description
+
+Move Left
+
+A or Left Arrow
+
+D-Pad/Left Stick Left
+
+Walk to reposition before a jump.
+
+Move Right
+
+D or Right Arrow
+
+D-Pad/Left Stick Right
+
+Walk to reposition before a jump.
+
+Charge/Jump
+
+SPACEBAR
+
+A / X Button
+
+Hold to charge, release to jump.
+
+Restart Level
+
+R
+
+Select/Back Button
+
+(Only use if truly stuck on a screen.)
+
+3. THE RULES OF GRAVITY
+
+A. The Only Way is Up
+
+The game is a single, continuous, vertical map. There are no save points or checkpoints within the ascent.
+
+B. Falling is Progress... Lost
+
+Every successful jump gains you ground, but every missed jump, slip, or mistimed landing will result in a fall. You will fall until you land on solid ground or hit the bottom of the current screen.
+
+Progress is measured not by time, but by vertical location. A single mistake can easily cost you ten minutes of strenuous effort.
+
+C. Platforms and Edges
+
+Ledges: To climb onto a platform, you must land directly on top of it. Landing on the side or grazing the edge will result in a fatal slide and fall.
+
+Momentum: The King has subtle momentum. Ensure you are completely stationary before initiating a crucial jump charge.
+
